@@ -1,0 +1,11 @@
+boto==2.45.0
+Django==1.8.18
+django-debug-toolbar==1.8
+django-pipeline==1.6.14
+django-pipeline-browserify==0.6.2
+django-storages==1.5.2
+djangorestframework==3.5.4
+djangorestframework-jwt==1.11.0
+Pillow==2.9.0
+PyJWT==1.6.0
+sqlparse==0.2.4
